@@ -27,7 +27,7 @@ const sa = L.geoJSON(studyArea, {
       '</h2>' +
       '<p><a class ="info" href="https://raw.githubusercontent.com/iamdnp/Time-Series-Data/main/GRAPHS/Active_Channel/Polygon_' +
       feature.properties.Id +
-      '.png" target="_blank">Active Channel Width</a></p>' +
+      '-2.png" target="_blank">Active Channel Width</a></p>' +
       '<p><a class ="info" href="https://raw.githubusercontent.com/iamdnp/Time-Series-Data/main/GRAPHS/Wetted_Channel/Polygon_' +
       feature.properties.Id +
       '.png" target="_blank">Wetted Channel Width</a></p>';
