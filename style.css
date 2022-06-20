@@ -1,0 +1,43 @@
+#map{
+    height: 100vh;
+    border:0.5px;
+    border-style: solid;
+   
+} 
+body{
+    background-color: aliceblue;
+}
+*{
+    
+    text-align: center;
+    padding: 0;
+    margin: 0 1%;
+    box-sizing: border-box;
+}  
+
+.heading{
+    margin: 1%;
+}
+.info:link{
+    background-color: smokewhite;
+    color: black;
+    padding: 0.4rem 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.info:visited {
+    background-color: smokewhite;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+ .info:hover{
+    background-color: lightcyan;
+ }
+ .info:active {
+    background-color: lightcyan;
+  }
